@@ -9,6 +9,8 @@ Les données proviennent de data.gouv.fr et présentent de nombreuses problémat
 - incohérences
 - données réparties sur plusieurs fichiers
 
+- Pour comprendre la attributs de chaque entités je vous renvoie vers le site : www.data.gouv.fr
+- un Pdf y est présent pour expliquer chaque attributs de la data
 ---
 
 ##  Données utilisées
